@@ -5,11 +5,6 @@ export const games = [
     author: "Alec Moore",
   },
   {
-    title: "Cool Name Facts",
-    link: "https://colintate24.github.io/scaling-tribble/",
-    author: "Colin Tate",
-  },
-  {
     title: "Echo Lab",
     link: "https://astricklandd.github.io/echo-lab/",
     author: "Alex Strickland",
@@ -17,7 +12,7 @@ export const games = [
   {
     title: "Echo Lab",
     link: "https://ashmcflash.github.io/echo-lab/",
-    author: "Ashlyn Paruzynsky",
+    author: "Ashlyn Paruzynski",
   },
   {
     title: "DOB Facts",
@@ -81,7 +76,7 @@ export const games = [
   },
   {
     title: "Solid Octo Happiness",
-    link:  "https://hkbrian5.github.io/solid-octo-happiness/",
+    link:  "https://hkbrian5.github.io/solid-octo-happiness/", //non working link
     author: "Kevin Salgado",
   },
   {
@@ -95,14 +90,19 @@ export const games = [
     author: "Lane Schmidt",
   },
   {
+    title: "Delta Lab",
+    link: "https://mlittle98.github.io/DELTALAB/",
+    author: "Maggie Little",
+  },
+  {
     title: "Sturdy Rotary Phone",
-    link:  "mskel1.github.io/sturdy-rotary-phone/",
+    link:  "https://mskel1.github.io/sturdy-rotary-phone/",
     author: "Meghan Skelton",
   },
   {
-    title: "Nicole Reilly    ",
+    title: "Echo Lab",
     link:  "https://nicolereilly.github.io/echo-lab/",
-    author: "Errorless-Stone",
+    author: "Nicole Reilly",
   },
   {
     title: "Echo Lab",
@@ -110,9 +110,19 @@ export const games = [
     author: "Omonegho",
   },
   {
+    title: "Charlie Lab",
+    link: "https://panhead63.github.io/Charlie-lab/",
+    author: "Rachel Thompson",
+  },
+  {
     title: "Doge Game",
     link: "https://rish4863.github.io/doge-game/",
     author: "Rishi Doreswamy",
+  },
+  {
+    title: "Delta Lab",
+    link: "https://tythomas21.github.io/delta/",
+    author: "Tychicus Thomas",
   },
   {
     title: "Echo Lab",

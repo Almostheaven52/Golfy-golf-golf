@@ -9,7 +9,7 @@
 }
 
 .navigation {
-  background: #263238;
+  background: #F8BBD0;
 }
 
 .brand {
@@ -20,7 +20,7 @@
 }
 .brand a,
 .brand a:visited {
-  color: #ffffff;
+  color: #424242;
   text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ article {
 }
 
 .jumbotron {
-  background-color: #171717;
+  background-color: #424242;
 }
 
 #cards {
@@ -50,7 +50,7 @@ article {
 }
 
 div {
-  color: white;
+  color: #F8BBD0;
 }
 
 #description {
@@ -58,12 +58,12 @@ div {
 }
 
 footer .col_white_amrc {
-  color: #fff;
+  color: #F8BBD0;
   padding: 0.5rem 0 !important;
 }
 footer {
   width: 100%;
-  background-color: #263238;
+  background-color: #424242;
   min-height: 150px;
   padding: 1rem !important;
 }
