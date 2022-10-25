@@ -9,8 +9,6 @@ $(function () {
        <br> \
        <a href="${item.link}" target="_blank" class="link-info" >GAME LINK</a> \
        <p class="text-white">Create by: ${item.author} </p> \
-       <br> \
-       <button class='btn btn-outline-info cardClose'>Close</button> \
    </div>
  </div>`;
 
