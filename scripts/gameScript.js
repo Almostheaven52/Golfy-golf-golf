@@ -3,7 +3,7 @@ import { games } from "./config.js";
 $(function () {
   
   $.each(games, function (index, item) {
-    var el = `<div class='card text-center mx-auto bg-blue' style="width: 200px">
+    var el = `<div class='card text-center mx-auto bg-dark blue' style="width: 200px">
   <button class='cardOpen btn btn-outline-info'> ${item.title} </button>
    <div class='cardHide'>
        <br>
