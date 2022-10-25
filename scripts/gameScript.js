@@ -1,7 +1,7 @@
 import { games } from "./config.js";
 
 $(function () {
-  // iterate over the JSON array
+  
   $.each(games, function (index, item) {
     // create a brand new HTML element JUST with code
     var el = `<div class='card text-center mx-auto bg-dark blue' style="width: 200px"> \
