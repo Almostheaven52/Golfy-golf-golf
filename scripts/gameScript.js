@@ -3,7 +3,6 @@ import { games } from "./config.js";
 $(function () {
   
   $.each(games, function (index, item) {
-    // create a brand new HTML element JUST with code
     var el = `<div class='card text-center mx-auto bg-dark blue' style="width: 200px"> \
   <button class='cardOpen btn btn-outline-info'> ${item.title} </button> \
    <div class='cardHide'> \
